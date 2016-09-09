@@ -1,2 +1,2 @@
-# BBImageHandler
-python 处理图片的代码
+# BBImageHandler是一些处理图片的Python脚本
+###ImageCleaner是一个去掉图片白色背景的脚本，是看了Txx写的OC的代码之后自己想写一个Python的脚本，自己练练手，然后觉得脚本操作也方便。
